@@ -10,7 +10,7 @@ Here, blue points are off-states and red points are on-states.
 
 And the network output is a time series of 0 and 1s corresponding to either off and on-state respectively.
 
-<img src="img/trace0.png" alt="Blinking trace" style ="width: 200px;"/>
+<img src="img/trace1.png" alt="Blinking trace" style ="width: 200px;"/>
 
 Zooming in:
 <img src="img/trace1z.png" alt="Blinking trace" style ="width: 200px;"/>
